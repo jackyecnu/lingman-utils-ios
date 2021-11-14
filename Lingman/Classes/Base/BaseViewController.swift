@@ -5,12 +5,12 @@ import Foundation
    open class  BaseViewController : UIViewController
 {
     /// 加载小菊花
-    lazy var actIndicator: UIActivityIndicatorView = {
-        let view = UIActivityIndicatorView(activityIndicatorStyle: .white)
-        view.frame = CGRect(x: DemonUIHelper.SCREENW/2.0 - 50, y: (DemonUIHelper.SCREENH - DemonUIHelper.naviHeight)/2.0 - 100, width: 100, height: 100)
-        view.color = .lightGray
-        return view
-    }()
+//    lazy var actIndicator: UIActivityIndicatorView = {
+//        let view = UIActivityIndicatorView(activityIndicatorStyle: .white)
+//        view.frame = CGRect(x: DemonUIHelper.SCREENW/2.0 - 50, y: (DemonUIHelper.SCREENH - DemonUIHelper.naviHeight)/2.0 - 100, width: 100, height: 100)
+//        view.color = .lightGray
+//        return view
+//    }()
     
     
     open override func viewDidLoad() {
@@ -21,7 +21,7 @@ import Foundation
         automaticallyAdjustsScrollViewInsets = false
          
          
-        view.addSubview(actIndicator)
+    //    view.addSubview(actIndicator)
         
         initClick()
         
