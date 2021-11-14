@@ -6,7 +6,7 @@ import Foundation
 {
     /// 加载小菊花
 //    lazy var actIndicator: UIActivityIndicatorView = {
-//        let view = UIActivityIndicatorView(activityIndicatorStyle: .white)
+//        let view = UIActivityIndicatorView(sytle: .white)
 //        view.frame = CGRect(x: DemonUIHelper.SCREENW/2.0 - 50, y: (DemonUIHelper.SCREENH - DemonUIHelper.naviHeight)/2.0 - 100, width: 100, height: 100)
 //        view.color = .lightGray
 //        return view
