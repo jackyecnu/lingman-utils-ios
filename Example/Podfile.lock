@@ -1,0 +1,53 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Lingman (0.1.0):
+    - Alamofire
+    - ObjectMapper
+    - RxCocoa
+    - RxSwift
+    - SVProgressHUD
+    - Swinject
+    - Toast-Swift
+  - ObjectMapper (4.2.0)
+  - RxCocoa (6.2.0):
+    - RxRelay (= 6.2.0)
+    - RxSwift (= 6.2.0)
+  - RxRelay (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+  - SVProgressHUD (2.2.5)
+  - Swinject (2.8.1)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Lingman (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ObjectMapper
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SVProgressHUD
+    - Swinject
+    - Toast-Swift
+
+EXTERNAL SOURCES:
+  Lingman:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Lingman: ba43a078f0dd37827512db84bef643ca9fc1a7d7
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
+  RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Swinject: 97112918bd7e0785dc2df7036213f3c8cbba6586
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 69065b60b7bd887d67bb1d245dc2429da5121604
+
+COCOAPODS: 1.11.0

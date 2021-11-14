@@ -1,0 +1,6 @@
+framework module Lingman {
+  umbrella header "Lingman-umbrella.h"
+
+  export *
+  module * { export * }
+}

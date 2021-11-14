@@ -1,0 +1,45 @@
+{
+  "name": "Lingman",
+  "version": "0.1.0",
+  "summary": "Lingman Class Library",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/钟双金/Lingman",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "钟双金": "jackyecnu@126.com"
+  },
+  "source": {
+    "git": "https://github.com/钟双金/Lingman.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Lingman/Classes/**/*",
+  "dependencies": {
+    "Swinject": [
+
+    ],
+    "ObjectMapper": [
+
+    ],
+    "RxCocoa": [
+
+    ],
+    "RxSwift": [
+
+    ],
+    "Alamofire": [
+
+    ],
+    "SVProgressHUD": [
+
+    ],
+    "Toast-Swift": [
+
+    ]
+  }
+}
