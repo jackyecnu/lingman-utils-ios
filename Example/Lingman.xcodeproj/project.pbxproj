@@ -145,6 +145,7 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = H677DXW325;
 						LastSwiftMigration = 0900;
 					};
 				};
@@ -376,6 +377,7 @@
 			baseConfigurationReference = 5DD221032F6664A71507939C /* Pods-Lingman_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = H677DXW325;
 				INFOPLIST_FILE = Lingman/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -392,6 +394,7 @@
 			baseConfigurationReference = B13A9BD61A14CBD48482B2D6 /* Pods-Lingman_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = H677DXW325;
 				INFOPLIST_FILE = Lingman/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";

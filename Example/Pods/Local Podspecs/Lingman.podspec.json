@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "summary": "Lingman Class Library",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/钟双金/Lingman",
+  "swift_versions": [
+    "5.5"
+  ],
+  "homepage": "https://github.com/jackyecnu/lingman-utils-ios",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +15,7 @@
     "钟双金": "jackyecnu@126.com"
   },
   "source": {
-    "git": "https://github.com/钟双金/Lingman.git",
+    "git": "https://github.com/jackyecnu/lingman-utils-ios.git",
     "tag": "0.1.0"
   },
   "platforms": {
@@ -41,5 +44,6 @@
     "Toast-Swift": [
 
     ]
-  }
+  },
+  "swift_version": "5.5"
 }

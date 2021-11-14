@@ -1,5 +1,5 @@
 PODS:
-  - Alamofire (4.9.1)
+  - Alamofire (5.4.4)
   - Lingman (0.1.0):
     - Alamofire
     - ObjectMapper
@@ -38,8 +38,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
-  Lingman: ba43a078f0dd37827512db84bef643ca9fc1a7d7
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  Lingman: 6f0533de3949b02d13d766774c670342f7c17146
   ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
   RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
   RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
@@ -50,4 +50,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 69065b60b7bd887d67bb1d245dc2429da5121604
 
-COCOAPODS: 1.11.0
+COCOAPODS: 1.11.2
