@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/jackyecnu/lingman-utils-ios'
+  s.homepage         = 'https://github.com/钟双金/Lingman'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '钟双金' => 'jackyecnu@126.com' }
-  s.source           = { :git => 'https://github.com/jackyecnu/lingman-utils-ios.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/钟双金/Lingman.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
@@ -35,7 +35,7 @@ TODO: Add long description of the pod here.
   # s.resource_bundles = {
   #   'Lingman' => ['Lingman/Assets/*.png']
   # }
- 
+
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'Swinject'

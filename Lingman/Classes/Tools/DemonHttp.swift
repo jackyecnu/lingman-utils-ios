@@ -32,10 +32,8 @@ public class DemonHttp {
             myRequest.httpBody = try! JSONSerialization.data(withJSONObject: body, options: [])
         }
          
-        
-    
-        
-        request(myRequest).responseJSON { response in
+     
+        AF.request(myRequest).responseJSON { response in
             debugPrint(response)
             if showHUD {
                 SVProgressHUD.dismiss()
